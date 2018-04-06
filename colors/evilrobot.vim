@@ -81,7 +81,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "hybrid_material"
+let colors_name = "evil_robot"
 
 "}}}
 " GUI And Cterm Palettes:"{{{
